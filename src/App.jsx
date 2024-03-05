@@ -1,5 +1,5 @@
 import footer from "./contents/footer" {
-  
+  function app(){
   return(
   <main>
 
@@ -8,6 +8,6 @@ import footer from "./contents/footer" {
   </main>
 
   );
-
+  }
 
 }
