@@ -1,0 +1,14 @@
+header{
+    height: 80px;
+    background-color:gray;
+    htext{
+        color: black;
+    }
+}
+footer{
+    height:80px;
+    background-color: gray;
+    ftext{
+        color: black;
+    }
+}
