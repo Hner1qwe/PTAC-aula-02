@@ -1,13 +1,14 @@
-import footer from "./contents/footer";
-import header from "./contents/header";
-import main from "./main";
-import "./globals.css";                   
+import Footer from "./Contents/Footer.jsx";
+import Header from "./Contents/Header.jsx";
+import Main from "./Contents/Main.jsx";
+import "./Globals.css";                   
 
-  function app(){
+ export default function App(){
   return(
   <main>
-    <header/>
-    <footer/>
+    <Header/>
+    <Main/>
+    <Footer/>
   </main>
   );
   }
